@@ -1,4 +1,4 @@
-<h1>Desarífo Amigo Segreto</h1>
+<h1>Desarífo Amigo Secreto</h1>
 Complementando la información y página suministrada se debe desarrollar un "juego del amigo secreto" que debe seleccionar aleatoriamente una persona del listado ingresado para asignar un amigo secreto al jugador
 <p>Pautas</p>
 
