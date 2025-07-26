@@ -13,4 +13,4 @@ Complementando la información y página suministrada se debe desarrollar un "ju
 
 - Delimitar ingreso de nombres a solo string y no duplicados
 - Posibilidad de repetir la asignación de amigo secreto a una segunda persona que juegue, sin considerar la o las personas previamente seleccionadas como amigo secreto
-- Agregar un listado que recopile los amigos secretos seleccionas
+
